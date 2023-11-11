@@ -1,0 +1,44 @@
+
+h1.start { width: 300px;
+height: 40px;
+background-color: rgba(255, 0, 208, 0.885);
+
+text-align:center;
+margin-left: auto;
+margin-right: auto;}
+
+body.content{
+ background-color: blueviolet;
+
+}
+img.image {
+width: 600px;
+height: 400px;
+/*margin-left: auto;*/
+margin-right: auto;
+background-color: lightblue;
+
+display:block;
+object-fit: cover; 
+}
+img.fire {
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    
+    background-color: lightblue;
+    
+    display:block;
+    object-fit: cover; 
+    }
+
+p.hindi{
+    background-color: rgb(187, 250, 13);
+    font-size: 25px;
+    
+    width: 280px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
